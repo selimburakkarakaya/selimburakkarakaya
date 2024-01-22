@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Selim from Turkey.<br><br>- 🔭 I’m working as Frontend Developer.<br>- 📚 I'm currently learning frontend technologies.<br>- ⚡ In my free time I enjoy the sea.</p>
+<p align="left">I'm Selim from Turkey.<br><br>- 🔭 I’m working as Frontend Developer.<br>- 📚 I'm currently learning frontend technologies.<br>- 🤝 I'm open to collaborating on Projects.</p>
 
 ###
 
