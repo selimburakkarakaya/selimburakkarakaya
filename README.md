@@ -37,31 +37,31 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" alt="visualstudio logo"  />
-  <img width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
-  <img width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="60" alt="bootstrap logo"  />
-  <img width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="60" alt="tailwindcss logo"  />
-  <img width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60" alt="javascript logo"  />
-  <img width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" height="60" alt="jquery logo"  />
-  <img width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60" alt="react logo"  />
-  <img width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60" alt="redux logo"  />
-  <img width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60" alt="python logo"  />
-  <img width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo"  />
-  <img width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="sqlite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="80" alt="visualstudio logo"  />
+  <img width="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="80" alt="html5 logo"  />
+  <img width="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="80" alt="css3 logo"  />
+  <img width="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="80" alt="github logo"  />
+  <img width="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="80" alt="bootstrap logo"  />
+  <img width="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="80" alt="tailwindcss logo"  />
+  <img width="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="80" alt="javascript logo"  />
+  <img width="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" height="80" alt="jquery logo"  />
+  <img width="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="80" alt="react logo"  />
+  <img width="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="80" alt="redux logo"  />
+  <img width="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="80" alt="python logo"  />
+  <img width="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="80" alt="django logo"  />
+  <img width="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="80" alt="sqlite logo"  />
 </div>
 
 ###
@@ -73,8 +73,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=selimburakkarakaya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=selimburakkarakaya&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=selimburakkarakaya&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=selimburakkarakaya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=selimburakkarakaya&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=selimburakkarakaya&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
