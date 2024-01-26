@@ -66,10 +66,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/selimburakkarakaya/selimburakkarakaya/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
