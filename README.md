@@ -48,6 +48,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="80" alt="bootstrap logo"  />
   <img width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="80" alt="tailwindcss logo"  />
+  
+  ###
+
   <img width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="80" alt="javascript logo"  />
   <img width="60" />
@@ -58,6 +61,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="80" alt="redux logo"  />
   <img width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="80" alt="python logo"  />
+
+  ###
+  
   <img width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="80" alt="django logo"  />
   <img width="60" />
