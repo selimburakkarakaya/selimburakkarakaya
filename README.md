@@ -47,7 +47,7 @@
   <img width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="80" alt="bootstrap logo"  />
   <img width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="80" alt="tailwindcss logo"  />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="80" alt="tailwindcss logo"  />
   
   ###
 
