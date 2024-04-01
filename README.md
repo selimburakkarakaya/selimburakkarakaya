@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Selim from Turkey.<br><br>- 🔭 I’m working as Frontend Developer.<br>- 📚 I'm currently learning frontend technologies.<br>- 🖥️ <a href="https://selimburakkarakaya.github.io/Portfolio/" target="_blank">My Portfolio.</a><br>- 🤝 I'm open to collaborating on Projects.</p>
+<p align="left">I'm Selim from Turkey.<br><br>- 🔭 I’m working as Fullstack Developer.<br>- 📚 I'm currently learning new technologies.<br>- 🖥️ <a href="https://selimburakkarakaya.github.io/Portfolio/" target="_blank">My Portfolio.</a><br>- 🤝 I'm open to collaborating on Projects.</p>
 
 ###
 
